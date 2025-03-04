@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Blueprint>
 	<Regions>
-		<Region Name="EN/DE/FR/JP" Version="2025.01.28.0000.0000">
+		<Region Name="EN/DE/FR/JP" Version="2025.02.27.0000.0000">
 			<Opcodes>
-				<Opcode Name="StatusEffectList" Id="923" />
-				<Opcode Name="StatusEffectList2" Id="870" />
-				<Opcode Name="StatusEffectList3" Id="611" />
-				<Opcode Name="Ability1" Id="508" />
-				<Opcode Name="Ability8" Id="497" />
-				<Opcode Name="Ability16" Id="167" />
-				<Opcode Name="Ability24" Id="842" />
-				<Opcode Name="Ability32" Id="301" />
-				<Opcode Name="ActorCast" Id="107" />
-				<Opcode Name="EffectResult" Id="750" />
-				<Opcode Name="ActorControl" Id="482" />
-				<Opcode Name="ActorControlSelf" Id="915" />
-				<Opcode Name="ActorControlTarget" Id="639" />
-				<Opcode Name="MapEffect" Id="160" />
-				<Opcode Name="EventPlay" Id="345" />
-				<Opcode Name="EventPlay64" Id="540" />
+				<Opcode Name="StatusEffectList" Id="716" />
+				<Opcode Name="StatusEffectList2" Id="367" />
+				<Opcode Name="StatusEffectList3" Id="500" />
+				<Opcode Name="Ability1" Id="520" />
+				<Opcode Name="Ability8" Id="158" />
+				<Opcode Name="Ability16" Id="374" />
+				<Opcode Name="Ability24" Id="432" />
+				<Opcode Name="Ability32" Id="525" />
+				<Opcode Name="ActorCast" Id="855" />
+				<Opcode Name="EffectResult" Id="970" />
+				<Opcode Name="ActorControl" Id="842" />
+				<Opcode Name="ActorControlSelf" Id="461" />
+				<Opcode Name="ActorControlTarget" Id="348" />
+				<Opcode Name="MapEffect" Id="935" />
+				<Opcode Name="EventPlay" Id="108" />
+				<Opcode Name="EventPlay64" Id="382" />
 			</Opcodes>
 		</Region>
 		<Region Name="CN" Version="2023.09.06.0000.0000">
